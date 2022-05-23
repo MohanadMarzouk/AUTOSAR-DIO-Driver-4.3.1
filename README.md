@@ -1,2 +1,3 @@
-# AUTOSAR DIO Driver 4.3.1
- DIO Driver for TM4C123
+# AUTOSAR DIO Driver 
+
+Implemented DIO Driver for TM4C123 AUTOSAR version 4.3.1
